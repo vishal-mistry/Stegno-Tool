@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<team_details>
+
+  <member>
+    <name>Yogesh Choudhary</name>
+    <designation>Administrator and Manager</designation>
+    <description>Administers the service and handles analytics and revenue.</description>
+  </member>
+  <member>
+    <name>Amogh Amin</name>
+    <designation>Lead Developer</designation>
+    <description>Incorporate the core development of the service and adds new features.</description>
+  </member>
+  <member>
+    <name>Rachana Behera</name>
+    <designation>Support and PR Head</designation>
+    <description>Takes care of the support department and manages public relations.</description>
+  </member>
+ <member>
+    <name>Vishal Mistry</name>
+    <designation>Developer</designation>
+    <description>Tests and adds new features and tailors the user expierience.</description>
+  </member>
+  
+</team_details>
